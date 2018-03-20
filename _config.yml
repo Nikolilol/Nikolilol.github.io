@@ -2,13 +2,13 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo                             # used in <title> tag & site header
-author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
+title: Niko`s blog                                 # used in <title> tag & site header
+author: Niko li                             # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
-slogan: Showtime!                           # used in site header, beside title
-avatar: /i/avatar.png                       # used as portrait in site header
+slogan: Never stop                          # used in site header, beside title
+avatar: /i/icon.jpg                         # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
@@ -24,13 +24,13 @@ nav_menu:
     url: /projects
     icon: /i/icons.svg#portfolio
   - name: GitHub
-    url: https://github.com/rlue/
+    url: https://github.com/Nikolilol
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
     scheme: mailto      # these keys enable email obfuscation.
-    handle: hello       # you know, to protect you from bots. (handle and domain
-    domain: github.com  # are separated in case bots crawl GitHub repos, too.)
+    handle: nikoli_89       # you know, to protect you from bots. (handle and domain
+    domain: 163.com  # are separated in case bots crawl GitHub repos, too.)
     icon: /i/icons.svg#email
 
 # Objects listed here will appear on the /projects.html page.
